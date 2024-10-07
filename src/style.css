@@ -1,0 +1,33 @@
+body {
+  padding: 0px;
+  margin: 0px;
+}
+
+.container {
+  background-color: beige;
+  background: #c67037;
+  width: 100%;
+  max-width: 1000px;
+  margin: 100px auto;
+  border-radius: 10px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.about-paragraph {
+  text-align: center;
+  margin: 20px;
+  padding: 10px;
+}
+
+.navigation-links {
+  text-align: center;
+  justify-content: space-evenly;
+  display: flex;
+}
+
+a :link {
+  color: white;
+}
